@@ -1,1 +1,7 @@
+name: I'm Fomu - an FPGA in your USB port
 theme: jekyll-theme-midnight
+markdown: kramdown
+url: 'https://fomu.im'
+permalink: "articles/:title/"
+plugins:
+- jekyll-redirect-from
