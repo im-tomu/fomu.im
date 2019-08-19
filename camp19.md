@@ -25,6 +25,10 @@ Or [download a zipped version](https://github.com/im-fomu/fomu-workshop/archive/
 Pay special attention to [micropython-fomu.dfu](https://github.com/im-fomu/fomu-workshop/blob/master/micropython-fomu.dfu?raw=true), which will be used at the start of the class.
 
 
+## Toolchain Files
+
+The toolchain files should be provided on the USB drive that's being passed around.  However, you can download the files separately from [https://github.com/im-tomu/fomu-toolchain/releases](https://github.com/im-tomu/fomu-toolchain/releases).
+
 ## Raspberry Pi
 
 Add the Fomu Raspbian repo:
