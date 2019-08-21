@@ -4,6 +4,13 @@ I'm Fomu, an FPGA in your USB port!  I have 128 kilobytes of RAM, and enough log
 
 I'm available for [pre-order now on Crowd Supply](https://www.crowdsupply.com/sutajio-kosagi/fomu).
 
-* [Fomu Hardware Repository](https://github.com/im-tomu/fomu-hardware)
-* [Fomu Workshop Repository](https://github.com/im-tomu/fomu-workshop)
-* [Fomu Toolchain Repository](https://github.com/im-tomu/fomu-toolchain)
+# Repositories
+
+* [Fomu Hardware](https://github.com/im-tomu/fomu-hardware)
+* [Fomu Workshop](https://github.com/im-tomu/fomu-workshop)
+* [Fomu Toolchain](https://github.com/im-tomu/fomu-toolchain)
+
+
+# History
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRiPeIvvWhA6BX0Q4NYMEbRuZSlhxvM6I2baZi7JBeXF214rE6siQQ5WeH9j40MzGoekYu9JnbAS5CR/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
