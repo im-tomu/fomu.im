@@ -14,15 +14,15 @@ In order to follow along with the Fomu workshop at CCCamp 2019, you will need th
 
 ## Workshop Files
 
-The workshop files are available on the USB drive, or in the [Fomu Workshop](https://github.com/im-fomu/fomu-workshop) repository.  You can clone them using git:
+The workshop files are available on the USB drive, or in the [Fomu Workshop](https://github.com/im-tomu/fomu-workshop) repository.  You can clone them using git:
 
 ```sh
-$ git clone https://github.com/im-fomu/fomu-workshop.git
+$ git clone https://github.com/im-tomu/fomu-workshop.git
 ```
 
-Or [download a zipped version](https://github.com/im-fomu/fomu-workshop/archive/master.zip).
+Or [download a zipped version](https://github.com/im-tomu/fomu-workshop/archive/master.zip).
 
-Pay special attention to [micropython-fomu.dfu](https://github.com/im-fomu/fomu-workshop/blob/master/micropython-fomu.dfu?raw=true), which will be used at the start of the class.
+Pay special attention to [micropython-fomu.dfu](https://github.com/im-tomu/fomu-workshop/blob/master/micropython-fomu.dfu?raw=true), which will be used at the start of the class.
 
 
 ## Toolchain Files
