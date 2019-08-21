@@ -4,12 +4,6 @@ I'm Fomu, an FPGA in your USB port!  I have 128 kilobytes of RAM, and enough log
 
 I'm available for [pre-order now on Crowd Supply](https://www.crowdsupply.com/sutajio-kosagi/fomu).
 
-
-Developing Locally
-------------------
-
-Following the [Github Documentation on Developing Locally](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/), perform the following steps on this repo once checked out:
-
-1. Ensure ruby is installed.  On Ubuntu/Debian, run `sudo apt install ruby ruby-dev make gcc libcurl3 autoconf libz-dev ruby-bundler`
-1. `bundle install --path vendor/bundle`
-1. `bundle exec jekyll serve`
+* [Fomu Hardware Repository](https://github.com/im-tomu/fomu-hardware)
+* [Fomu Workshop Repository](https://github.com/im-tomu/fomu-workshop)
+* [Fomu Toolchain Repository](https://github.com/im-tomu/fomu-toolchain)
