@@ -4,12 +4,19 @@ I'm Fomu, an FPGA in your USB port!  I have 128 kilobytes of RAM, and enough log
 
 I'm available for [pre-order now on Crowd Supply](https://www.crowdsupply.com/sutajio-kosagi/fomu).
 
+<h2><a href="https://workshop.fomu.im">CCCamp19 workshop</a></h2>
+
 # Repositories
 
 * [Fomu Hardware](https://github.com/im-tomu/fomu-hardware)
 * [Fomu Workshop](https://github.com/im-tomu/fomu-workshop)
 * [Fomu Toolchain](https://github.com/im-tomu/fomu-toolchain)
 
+# Contact
+
+* [Announcement mailing list](https://groups.google.com/forum/#!forum/tomu-announce/join) - Low traffic list for announcements.
+* [Discussion mailing list](https://groups.google.com/forum/#!forum/tomu-discuss/join) - List for discussing development / new features / etc.
+* [IRC Channel - irc://irc.freenode.net/#tomu](https://webchat.freenode.net/?channels=#tomu) - IRC channel for discussing anything related to the project.
 
 # History
 
